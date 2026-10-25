@@ -1,0 +1,10 @@
+{
+    "model": "CatBoostRegressor",
+    "train_samples": 17207,
+    "validation_samples": 3687,
+    "test_samples": 3688,
+    "best_iteration": 1999,
+    "mae_million": 112.079112897989,
+    "rmse_million": 376.70263552570407,
+    "r2_score": 0.9568280194782363
+}

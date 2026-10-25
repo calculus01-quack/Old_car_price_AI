@@ -1,0 +1,27 @@
+{
+    "features": [
+        "brand",
+        "grade",
+        "body_type",
+        "origin",
+        "transmission",
+        "drivetrain",
+        "fuel_type",
+        "engine_liters",
+        "doors",
+        "seats",
+        "fuel_consumption",
+        "year",
+        "mileage",
+        "mileage_is_zero"
+    ],
+    "categorical_features": [
+        "brand",
+        "grade",
+        "body_type",
+        "origin",
+        "transmission",
+        "drivetrain",
+        "fuel_type"
+    ]
+}

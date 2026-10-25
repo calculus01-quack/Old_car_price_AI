@@ -1,0 +1,21 @@
+﻿brand,grade,body_type,origin,transmission,drivetrain,fuel_type,engine_liters,doors,seats,fuel_consumption,year,mileage,mileage_is_zero,actual_price,predicted_price,absolute_error,percentage_error,price_segment
+RAM,1500,Bán tải / Pickup,Nhập khẩu,Số tự động,4WD - Dẫn động 4 bánh,Xăng,5.7,4,5,15.0,2022.0,1100.0,0,5200.0,16796.189812503217,11596.189812503217,223.0036502404465,Trên 2 tỷ
+Mercedes Benz,G class,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,5.5,5,5,8.0,2014.0,16000.0,0,10999.0,4144.464948475147,6854.535051524853,62.31962043390175,Trên 2 tỷ
+Bentley,Mulsanne,Sedan,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,6.8,4,4,1.0,2020.0,7000.0,0,29500.0,36177.487557971006,6677.487557971006,22.635551043969514,Trên 2 tỷ
+Bentley,Bentayga,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,,5,4,16.0,2019.0,36000.0,0,13500.0,8056.351125858102,5443.648874141898,40.32332499364369,Trên 2 tỷ
+Lamborghini,Urus,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,4.0,5,5,1.0,2019.0,0.0,1,17700.0,12570.417932949345,5129.582067050655,28.98068964435398,Trên 2 tỷ
+Lamborghini,Urus,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,4.0,5,5,1.0,2022.0,0.0,1,19500.0,15918.122568652318,3581.8774313476824,18.3686022120394,Trên 2 tỷ
+Rolls Royce,Ghost,Sedan,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,6.6,4,4,15.0,2022.0,0.0,1,38888.0,35340.292455101924,3547.707544898076,9.122885067110872,Trên 2 tỷ
+Lexus,LX,SUV,Nhập khẩu,Số tự động,4WD - Dẫn động 4 bánh,Xăng,,5,8,1.0,2018.0,30000.0,0,8000.0,5229.880668122659,2770.119331877341,34.62649164846677,Trên 2 tỷ
+Mercedes Benz,G class,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,4.0,5,5,1.0,2021.0,129000.0,0,12980.0,10219.247926508962,2760.7520734910377,21.269276375123557,Trên 2 tỷ
+Toyota,Land Cruiser,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,5.7,5,5,1.0,2021.0,13000.0,0,9880.0,7164.5950982587265,2715.4049017412735,27.483855280782123,Trên 2 tỷ
+Mercedes Benz,S class,Sedan,Lắp ráp trong nước,Số tự động,RFD - Dẫn động cầu sau,Xăng,3.0,4,5,1.0,2017.0,0.0,1,4950.0,2488.962481737346,2461.037518262654,49.71792966187179,Trên 2 tỷ
+Jeep,Gladiator,Bán tải / Pickup,Nhập khẩu,Số tự động,4WD - Dẫn động 4 bánh,Xăng,3.6,4,5,12.0,2020.0,5000.0,0,3200.0,5486.4872851786495,2286.4872851786495,71.4527276618328,Trên 2 tỷ
+Mercedes Benz,S class,Sedan,Nhập khẩu,Số tự động,RFD - Dẫn động cầu sau,Xăng,3.0,4,5,1.0,2017.0,0.0,1,5499.0,3293.0162999267454,2205.9837000732546,40.11608838103754,Trên 2 tỷ
+Porsche,Cayenne,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,3.0,4,5,1.0,2019.0,0.0,1,7080.0,4878.61934929392,2201.38065070608,31.092947043871185,Trên 2 tỷ
+Ford,F150,Bán tải / Pickup,Nhập khẩu,Số tự động,4WD - Dẫn động 4 bánh,Xăng,3.5,4,5,1.0,2018.0,15000.0,0,6600.0,4457.499189436132,2142.500810563868,32.462133493391946,Trên 2 tỷ
+Porsche,Macan,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,2.9,5,5,1.0,2022.0,1000.0,0,3800.0,5831.949003147271,2031.9490031472706,53.47234218808607,Trên 2 tỷ
+LandRover,Range Rover,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,5.0,5,4,1.0,2018.0,20000.0,0,8500.0,10489.778439909365,1989.7784399093653,23.409158116580766,Trên 2 tỷ
+Mercedes Benz,Maybach,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,4.0,5,4,1.0,2021.0,1000.0,0,14800.0,12845.850281428504,1954.1497185714961,13.203714314672272,Trên 2 tỷ
+Lexus,LX,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,5.7,5,4,15.0,2021.0,9000.0,0,8900.0,10842.167638729976,1942.1676387299758,21.822108300336808,Trên 2 tỷ
+Lexus,LX,SUV,Nhập khẩu,Số tự động,AWD - 4 bánh toàn thời gian,Xăng,5.7,5,7,1.0,2021.0,10000.0,0,8150.0,10038.478548516541,1888.4785485165412,23.171515932718297,Trên 2 tỷ
